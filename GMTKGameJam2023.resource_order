@@ -20,10 +20,12 @@
     {"name":"Player","order":1,"path":"folders/Sprites/Player.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Tiles","order":4,"path":"folders/Sprites/Env/Tiles.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_bowling_ball","order":3,"path":"objects/obj_bowling_ball/obj_bowling_ball.yy",},
     {"name":"obj_crosshair","order":4,"path":"objects/obj_crosshair/obj_crosshair.yy",},
+    {"name":"room_Lvl3","order":4,"path":"rooms/room_Lvl3/room_Lvl3.yy",},
     {"name":"obj_blue_floor","order":1,"path":"objects/obj_blue_floor/obj_blue_floor.yy",},
     {"name":"spr_solid_placeholder","order":1,"path":"sprites/spr_solid_placeholder/spr_solid_placeholder.yy",},
     {"name":"spr_crosshair","order":6,"path":"sprites/spr_crosshair/spr_crosshair.yy",},
@@ -39,6 +41,8 @@
     {"name":"obj_blue_wall","order":4,"path":"objects/obj_blue_wall/obj_blue_wall.yy",},
     {"name":"obj_bow","order":1,"path":"objects/obj_bow/obj_bow.yy",},
     {"name":"spr_boomerang","order":2,"path":"sprites/spr_boomerang/spr_boomerang.yy",},
+    {"name":"room_Lvl2","order":3,"path":"rooms/room_Lvl2/room_Lvl2.yy",},
+    {"name":"room_Lvl1","order":2,"path":"rooms/room_Lvl1/room_Lvl1.yy",},
     {"name":"roo_test","order":1,"path":"rooms/roo_test/roo_test.yy",},
   ],
 }
